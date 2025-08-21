@@ -15,10 +15,6 @@ LJF (Longest Job First)
 
 SRTF (Shortest Remaining Time First)
 
-LRTF (Longest Remaining Time First)
-
-RR (Round Robin)
-
 Priority (Non-Preemptive)
 
 Priority (Preemptive)
